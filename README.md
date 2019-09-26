@@ -3,4 +3,4 @@ Project 4: greedy gnomes
 
 Group members:
 
-Raul Cerda raul.cerda@csu.fullerton.edu
+Raul Cerda
